@@ -49,5 +49,5 @@ I am a results-driven **Engineering Leader** with **10+ years of experience** bu
 ---
 
 ## 🤝 Let's Connect!
-*   💼 **LinkedIn:** [Your LinkedIn Link]
+*   💼 **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/ahobilesan/)
 *   📧 **Email:** gahobilesan@gmail.com
