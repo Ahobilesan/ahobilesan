@@ -215,18 +215,22 @@ Led v2.0 development of a native iOS application, engineering a custom Cordova p
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahobilean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahobilean&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahobilesan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahobilesan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahobilean&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahobilesan&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 ## 🎓 Education
+
+
+🎓 &nbsp;**Master of Science in Cyber Forensic and Information Security**
+&nbsp;&nbsp;&nbsp;&nbsp;University of Madras, Chennai, India
 
 🎓 &nbsp;**Bachelor of Science in Electronics**
 &nbsp;&nbsp;&nbsp;&nbsp;University of Madras, Chennai, India
