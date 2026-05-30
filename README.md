@@ -213,16 +213,14 @@ Led v2.0 development of a native iOS application, engineering a custom Cordova p
 
 ## 📈 GitHub Stats
 
-> ⚠️ **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username.
-
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahobilean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahobilean&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahobilean&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -251,6 +249,6 @@ Led v2.0 development of a native iOS application, engineering a custom Cordova p
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38BDF8&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ahobilean&color=38BDF8&style=for-the-badge&label=Profile+Views)
 
 </div>
